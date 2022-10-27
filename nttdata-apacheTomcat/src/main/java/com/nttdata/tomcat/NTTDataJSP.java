@@ -23,7 +23,7 @@ public class NTTDataJSP {
 	
 	/**
 	 * 
-	 * @param name
+	 * @param name nombre
 	 * @return String;
 	 */
 	public static String helloNTTData(String name) {
