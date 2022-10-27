@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Configuracion de LogBack-->
+
 <configuration>
 
   <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
-    <!-- encoders are assigned the type
-         ch.qos.logback.classic.encoder.PatternLayoutEncoder by default -->
+    <!-- Layout personalizado -->
     <encoder>
       <pattern>%-4relative [%thread] %-5level %logger{35} - %msg %n</pattern>
     </encoder>
   </appender>
 
+	<!-- Nivel de alcance del root-->
   <root level="DEBUG">
     <appender-ref ref="STDOUT" />
   </root>
