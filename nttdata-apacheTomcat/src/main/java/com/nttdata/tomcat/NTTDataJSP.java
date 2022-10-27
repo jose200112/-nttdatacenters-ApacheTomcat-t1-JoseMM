@@ -22,7 +22,7 @@ public class NTTDataJSP {
 	}
 	
 	/**
-	 * 
+	 * Saludo mediante JSP
 	 * @param name nombre
 	 * @return String;
 	 */

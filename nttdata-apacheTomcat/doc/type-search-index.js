@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.nttdata.tomcat","l":"NTTDataJSP"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.nttdata.tomcat","l":"NTTDataJSP"},{"p":"com.nttdata.tomcat","l":"NTTDataServlet"}];updateSearchResults();
