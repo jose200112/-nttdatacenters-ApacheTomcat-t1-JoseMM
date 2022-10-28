@@ -1,7 +1,5 @@
 package com.nttdata.tomcat;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 /**
  * Formacion - Apache Tomcat - JSP - Taller
